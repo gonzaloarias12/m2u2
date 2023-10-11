@@ -1,0 +1,30 @@
+.contenedor {
+display: flex;
+justify-content: space-between;
+border: 3px solid;
+height: fit-content
+}
+
+.numeroUno {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.numeroDos {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.numeroTres {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    color: white;
+    text-align: center;
+    line-height: 180px;
+}
